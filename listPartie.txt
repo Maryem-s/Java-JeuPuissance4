@@ -1,0 +1,4 @@
+Id du joueur 1 est  1
+ Score du joueur 1 est 0
+ Id du joueur 2 est 3
+ Score du joueur 2 est 10
